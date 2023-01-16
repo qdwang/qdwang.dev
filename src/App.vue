@@ -85,10 +85,9 @@
     <div class="p">
       <div class="center">
         <p>
-          I have experience in various programming languages such as Rust, C++, C#, and JavaScript and have created several
-          projects related to photo editing, blockchain technologies, and website frontend development. My goal
-          with
-          these projects is to develop efficient and user-friendly tools that can help others with their tasks. I
+          An experienced indie software developer creating efficient and user-friendly tools in raw photo handling,
+          blockchain technologies, and various tools with Rust, C++, C# and JavaScript, with the goal of making
+          technology accessible to all. I
           believe
           that technology should be accessible to everyone and I strive to make my tools easy to use and understand.
         </p>
