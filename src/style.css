@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(inter.woff2) format('woff2');
+}
+
+* {
+  font-family: 'Inter', sans-serif;
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+}
+
+html,
+h2 {
+  font-size: 16px;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+a {
+  color: #777;
+  display: inline-block;
+  margin: 0 4px;
+  transition: font-variation-settings ease 0.3s, color ease 0.3s;
+  font-variation-settings: 'slnt' 0, 'wght' 300;
+}
+
+a:hover {
+  color: #333;
+  font-variation-settings: 'slnt' -10, 'wght' 600;
+}
+
+h2 {
+  background: #000;
+  color: #fff;
+  font-variation-settings: 'slnt' 0, 'wght' 600;
+  height: 2rem;
+  line-height: 2rem;
+}
+
+b {
+  font-variation-settings: 'slnt' 0, 'wght' 600;
+}
+
+.logo {
+  text-decoration: none;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+h1 {
+  font-variation-settings: 'slnt' -10, 'wght' 900;
+  color: #f0f0f0;
+  font-size: 32px;
+}
+
+div.p {
+  margin: 8px 0;
+  font-size: 14px;
+  line-height: 1.38rem;
+  transition: all ease 0.4s;
+  position: relative;
+  z-index: 1;
+}
+
+div.center {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 4px;
+}
+
+p {
+  margin: 8px 0;
+}
