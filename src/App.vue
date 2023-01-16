@@ -85,8 +85,8 @@
     <div class="p">
       <div class="center">
         <p>
-          I have experience in various programming languages such as Rust, C++, and JavaScript and have created several
-          projects related to photo editing, web3 storage, and game level generation. My goal
+          I have experience in various programming languages such as Rust, C++, C#, and JavaScript and have created several
+          projects related to photo editing, blockchain technologies, and website frontend development. My goal
           with
           these projects is to develop efficient and user-friendly tools that can help others with their tasks. I
           believe
