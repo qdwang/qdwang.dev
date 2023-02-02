@@ -78,6 +78,13 @@
       </div>
     </div>
 
+    <div class="p">
+      <div class="center"><b>A trading chart</b>
+        <br>
+        A trading chart with versatility and seamless compatibility with the WeChat mini-program, designed and developed in a full-time job. It contains features like candlestick charting, zooming, scaling, object high performance operation, custom graph drawing and indicators extension, etc.
+      </div>
+    </div>
+
     <h2>
       <div class="center">about</div>
     </h2>
