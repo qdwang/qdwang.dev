@@ -78,6 +78,13 @@
       </div>
     </div>
 
+    <div class="p">
+      <div class="center"><b>A trading chart</b>
+        <br>
+        A trading chart with versatility and seamless compatibility with the WeChat mini-program, designed and developed in a full-time job. It contains features like candlestick charting, zooming, scaling, object high performance operation, custom graph drawing and indicators extension, etc.
+      </div>
+    </div>
+
     <h2>
       <div class="center">about</div>
     </h2>
@@ -108,6 +115,8 @@
 
     <div class="p">
       <div class="center">
+        Nostr: <span class="nostr">npub1t3a3uh6utr96rk0xvc0wu8m8hnejn9umgjrjykd5he96tkpf528q2syw3v</span>
+        <br>
         Email: <a href="hello@qdwang.dev">hello@qdwang.dev</a>
         <br>
         Github: <a href="https://github.com/qdwang">https://github.com/qdwang</a>
@@ -118,5 +127,7 @@
 </template>
 
 <style scoped>
-
+.nostr {
+  font-family: monospace;
+}
 </style>
